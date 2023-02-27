@@ -1,1 +1,2 @@
-# IZP-VUT-FIT
+# IZP
+Evaluation = 8,2/10
